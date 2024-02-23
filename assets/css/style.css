@@ -40,7 +40,7 @@ h1 {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Why are these two selectors any different? */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -127,6 +127,6 @@ h3 {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
