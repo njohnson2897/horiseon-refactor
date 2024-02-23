@@ -7,7 +7,7 @@ This project entailed the refactoring of the webpage of a company, Horiseon.  Th
 N/A
 
 ## Usage
-To use the webpage, follow [this link](https:njohnson2897.github.io/horiseon-refactor/)
+To use the webpage, follow [this link](https://njohnson2897.github.io/horiseon-refactor/)
 
 The following screenshot demonstrates what the page should look like in a browser:
 ![horiseon webpage screenshot](./assets/images/horiseon-screenshot.PNG)
