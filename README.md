@@ -7,10 +7,12 @@ This project entailed the refactoring of the webpage of a company, Horiseon.  Th
 N/A
 
 ## Usage
-To use the webpage, type https:njohnson2897.github.io/horiseon-refactor into your address bar.
+To use the webpage, follow [this link](https:njohnson2897.github.io/horiseon-refactor)
+
 The following screenshot demonstrates what the page should look like in a browser:
 ![horiseon webpage screenshot](./assets/images/horiseon-screenshot.PNG)
 
 ## Credits
 [README tutorial](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
 [alt text tutorial](https://supercooldesign.co.uk/blog/how-to-write-good-alt-text)
