@@ -6,4 +6,4 @@ This project entailed the refactoring of the webpage of a company, Horiseon.  Th
 ## Installation
 To use the webpage, type https:njohnson2897.github.io/horiseon-refactor into your address bar.
 The following screenshot demonstrates what the page should look like in a browser:
-![horiseon webpage screenshot](./assets/images/horiseon-screenshot.png)
+![horiseon webpage screenshot](./assets/images/horiseon-screenshot.PNG)
