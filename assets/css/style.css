@@ -117,3 +117,20 @@ h3 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*Gives general styling to footer class as a whole */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+/* Applies specific font size and color to h4 element under footer class */
+.footer h4 {
+    font-size: 20px;
+    color: black
+}
+/* Applies specific font size and color to p element under footer class */
+.footer p{
+    font-size: 16px;
+    color: black
+}
