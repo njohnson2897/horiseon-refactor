@@ -1,3 +1,4 @@
+/* Universal styling choices used unless otherwise specified */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -16,16 +17,16 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Size and display style of page header */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Specific color instructions for "seo" portion of page header */
 #seo {
     color: #d9dcd6;
 }
-
+ 
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,12 +38,12 @@ h1 {
 ul {
     list-style-type: none;
 }
-
+/* Organization of nav bar list items */
 li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Size of all plain paragraph font throughout page */
 p {
     font-size: 16px;
 }
@@ -55,7 +56,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* 59-72 Indicate location of images in the main sections */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,7 +72,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Overall styling of the <aside> section to the right of page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -82,7 +83,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Margin and font color of content in aside section */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -92,13 +93,13 @@ h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Styling for images in the aside section on right of page */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Styling for the 3 main content sections */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -107,11 +108,11 @@ h3 {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Specific instructions for height of images in main sections */
 .content img {
     max-height: 200px;
 }
-
+/* Specific instructions for headers of each main section */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
